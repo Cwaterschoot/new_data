@@ -1,0 +1,51 @@
+Nickname;Groups;Liked_Items
+Nickname_1;Group_2, Group_4;Item_2, Item_7, Item_3, Item_10, Item_1, Item_9, Item_4
+Nickname_2;Group_3, Group_4, Group_2;Item_2, Item_4, Item_5, Item_7, Item_8, Item_10
+Nickname_3;Group_5, Group_2, Group_1, Group_4, Group_3;Item_1, Item_7, Item_8, Item_4, Item_6, Item_2, Item_10, Item_5, Item_9, Item_3
+Nickname_4;Group_5, Group_2, Group_1, Group_3, Group_4;Item_3, Item_10
+Nickname_5;Group_5, Group_3, Group_2;Item_2, Item_3, Item_8, Item_9, Item_10, Item_1, Item_4
+Nickname_6;Group_1, Group_5, Group_4;Item_7, Item_5
+Nickname_7;Group_4, Group_5, Group_3, Group_1;Item_6, Item_9, Item_8, Item_2, Item_4, Item_3, Item_1, Item_5, Item_10, Item_7
+Nickname_8;Group_2, Group_1, Group_3, Group_5, Group_4;Item_7, Item_2, Item_1, Item_4, Item_5, Item_3, Item_10, Item_6, Item_9
+Nickname_9;Group_1;Item_5, Item_9, Item_8, Item_6, Item_10, Item_2
+Nickname_10;Group_2, Group_5;Item_8, Item_2, Item_5, Item_7, Item_9, Item_1, Item_3
+Nickname_11;Group_2;Item_8, Item_10, Item_5, Item_7, Item_1, Item_6, Item_2, Item_9, Item_3
+Nickname_12;Group_5, Group_3, Group_1;Item_1, Item_2, Item_9, Item_3, Item_10, Item_5, Item_6
+Nickname_13;Group_3, Group_5;Item_10, Item_7
+Nickname_14;Group_3;Item_9, Item_2, Item_7, Item_6, Item_4, Item_3, Item_8, Item_5, Item_10, Item_1
+Nickname_15;Group_3, Group_1, Group_5, Group_2;Item_7, Item_2, Item_8, Item_9, Item_3, Item_1, Item_4
+Nickname_16;Group_2, Group_4, Group_3, Group_1;Item_8, Item_2, Item_3, Item_4, Item_5, Item_10, Item_1, Item_9, Item_7, Item_6
+Nickname_17;Group_4, Group_5;Item_10, Item_5, Item_3, Item_6, Item_1, Item_2, Item_7
+Nickname_18;Group_1, Group_3, Group_2, Group_5;Item_2, Item_5, Item_3, Item_7, Item_4, Item_9, Item_6
+Nickname_19;Group_2, Group_3, Group_5, Group_4;Item_6, Item_8, Item_10, Item_7
+Nickname_20;Group_2, Group_4, Group_5, Group_1, Group_3;Item_3, Item_2, Item_9, Item_7, Item_1, Item_4
+Nickname_21;Group_3, Group_2, Group_4;Item_9, Item_7
+Nickname_22;Group_4;Item_9, Item_7, Item_1, Item_8, Item_6, Item_10
+Nickname_23;Group_5, Group_2, Group_1, Group_4;Item_5, Item_6, Item_3
+Nickname_24;Group_4, Group_3;Item_8
+Nickname_25;Group_3, Group_2;Item_3, Item_9, Item_2, Item_7, Item_10, Item_6
+Nickname_26;Group_2, Group_1, Group_4, Group_5;Item_5, Item_1, Item_8, Item_4
+Nickname_27;Group_4;Item_7
+Nickname_28;Group_3, Group_2, Group_4;Item_7, Item_6, Item_3, Item_9, Item_10
+Nickname_29;Group_3, Group_5;Item_9, Item_8, Item_10, Item_6, Item_1, Item_2
+Nickname_30;Group_4, Group_1;Item_9, Item_1, Item_3, Item_2, Item_10, Item_5
+Nickname_31;Group_2, Group_3;Item_8, Item_9, Item_2, Item_4, Item_10, Item_3, Item_1, Item_7
+Nickname_32;Group_1;Item_8, Item_4, Item_3, Item_5, Item_9, Item_1, Item_6
+Nickname_33;Group_3;Item_1, Item_6, Item_2, Item_3, Item_4, Item_5, Item_7
+Nickname_34;Group_5, Group_3, Group_2, Group_1;Item_5, Item_10
+Nickname_35;Group_3, Group_2;Item_4, Item_5, Item_9, Item_2
+Nickname_36;Group_4, Group_3, Group_5, Group_2, Group_1;Item_8, Item_5, Item_2, Item_1, Item_4, Item_10, Item_9
+Nickname_37;Group_4, Group_5, Group_1, Group_3;Item_6, Item_5, Item_7, Item_3, Item_4, Item_2, Item_9, Item_10
+Nickname_38;Group_1, Group_5, Group_2;Item_6, Item_8, Item_2
+Nickname_39;Group_2, Group_4, Group_5, Group_3, Group_1;Item_9, Item_6, Item_7, Item_4, Item_5, Item_8
+Nickname_40;Group_2, Group_1, Group_4, Group_5, Group_3;Item_2
+Nickname_41;Group_2;Item_2, Item_10, Item_8, Item_6, Item_9, Item_1, Item_7, Item_5, Item_3, Item_4
+Nickname_42;Group_3, Group_5;Item_7, Item_10
+Nickname_43;Group_2;Item_4, Item_7, Item_1, Item_9, Item_8, Item_6, Item_3
+Nickname_44;Group_1, Group_5, Group_4, Group_2;Item_5, Item_3, Item_2, Item_7, Item_8, Item_10, Item_9, Item_4, Item_1, Item_6
+Nickname_45;Group_4, Group_1, Group_2;Item_7, Item_10, Item_6, Item_3, Item_9, Item_2
+Nickname_46;Group_3;Item_7, Item_3, Item_8, Item_10
+Nickname_47;Group_1, Group_4, Group_5, Group_2;Item_7, Item_6, Item_5, Item_9, Item_8, Item_10, Item_2, Item_1
+Nickname_48;Group_5, Group_3;Item_2, Item_9, Item_7, Item_8, Item_1, Item_4, Item_5, Item_10, Item_6
+Nickname_49;Group_1, Group_4, Group_3, Group_5;Item_3, Item_1, Item_5, Item_10, Item_6, Item_2, Item_4
+Nickname_50;Group_1;Item_5, Item_1, Item_9, Item_7, Item_2, Item_6, Item_10
